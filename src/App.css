@@ -1,0 +1,16 @@
+.product{
+  border:1px solid #999;
+  padding:20px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  width: calc(100% / 4 - 10px);
+}
+.flex{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
