@@ -12,7 +12,7 @@ const increaseVal = ()=>{
 const decreaseVal = ()=>{
     
    if (counter > 1){
-    setCounter(counter + 1)
+    setCounter(counter - 1)
    }
 }
 

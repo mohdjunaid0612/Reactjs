@@ -1,6 +1,6 @@
 .product{
   border:1px solid #999;
-  padding:20px;
+  padding:15px;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -28,4 +28,24 @@ button{
 }
 .justify-content-start{
   justify-content: flex-start;
+}
+.product img{
+  max-width: 100%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.text-center{
+  text-align: center;
+}
+.addCart{
+  cursor: pointer;
+  border-radius: 5px;
+  background: #e1fa00;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
 }

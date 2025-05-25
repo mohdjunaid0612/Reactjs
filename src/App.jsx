@@ -3,6 +3,7 @@ import Product from './component/Product'
 import './App.css'
 import Events from './component/Events'
 import Counter from './component/Counter'
+import Map from './component/Map'
 
 const App = () => {
   return (
@@ -17,6 +18,8 @@ const App = () => {
       <Events/>
       <h2>useState</h2>
       <Counter/>
+      <h2>Map</h2>
+      <Map/>
     </div>
   )
 }
