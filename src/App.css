@@ -14,3 +14,18 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+button{
+  padding: 10px 30px;
+  border:none;
+  background: #fff;
+  color: black;
+}
+.align-items-center{
+  align-items: center;
+}
+.align-items-end{
+  align-items: flex-end;
+}
+.justify-content-start{
+  justify-content: flex-start;
+}
